@@ -36,7 +36,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de novos exercícios 
 - Documentação do Java
 - Exercício de Lógica de Programação
 - Java Repetições - Tutorial
-- 
+
 Esses exercícios são ótimos para quem busca consolidar conceitos de laços e fortalecer o raciocínio lógico. Aproveite para explorar e aprimorar suas habilidades em Java!
 
 
