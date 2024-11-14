@@ -1,7 +1,7 @@
 # Exercicios-EstruturasDeRepeticao
 
 
-60 Exercícios de Lógica de Programação com Estruturas de Repetição em Java
+60 Exercícios de Lógica de Programação com Estruturas de Repetição em Java.
 
 ![image](https://github.com/user-attachments/assets/4ba416d7-58bc-4dce-ab74-38c817c09780)
 
